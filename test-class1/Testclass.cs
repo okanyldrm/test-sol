@@ -2,7 +2,7 @@
 {
     public class Testclass
     {
-        public string test = "teststring burada";
+        public string test = "teststring buradaydı!";
 
     }
 }
